@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background-color: #EBEBEB;
+    font-family: 'Roboto', sans-serif;
+}
+.heading{
+    font-size: 75px;
+    position: absolute;
+    top: 26%;
+    left: 40%;
+    color: rgb(5, 50, 71);
+    font-weight: bold;
+}
+#dec{
+    font-size: 13px;
+    position: absolute;
+    top: 65%;
+    letter-spacing: 2px;
+    left: 35%;
+    border: 1px solid rgb(5, 50, 71);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.main button:hover{
+    background-color: rgb(5, 50, 71);
+    color: white;
+    transition: 0.5s;
+}
+#set{
+    font-size: 13px;
+    position: absolute;
+    top: 65%;
+    letter-spacing: 2px;
+    left: 45%;
+    border: 1px solid rgb(5, 50, 71);
+    border-radius: 10px;
+    padding: 10px;
+}
+#inc{
+    font-size: 13px;
+    position: absolute;
+    top: 65%;
+    letter-spacing: 2px;
+    left: 52%;
+    border: 1px solid rgb(5, 50, 71);
+    border-radius: 10px;
+    padding: 10px;
+}
+.main #cou{
+    font-size: 90px;
+    position: absolute;
+    top: 45%;
+    left: 46%;
+    color: rgb(5, 50, 71);
+}
